@@ -1,0 +1,14 @@
+/home/nvidia/Face-Recognition/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Face-Recognition/build/CMakeFiles/install.dir
+/home/nvidia/Face-Recognition/build/CMakeFiles/list_install_components.dir
+/home/nvidia/Face-Recognition/build/CMakeFiles/jetson-inference.dir
+/home/nvidia/Face-Recognition/build/CMakeFiles/install/strip.dir
+/home/nvidia/Face-Recognition/build/CMakeFiles/install/local.dir
+/home/nvidia/Face-Recognition/build/CMakeFiles/edit_cache.dir
+/home/nvidia/Face-Recognition/build/face-recognition/CMakeFiles/install.dir
+/home/nvidia/Face-Recognition/build/face-recognition/CMakeFiles/list_install_components.dir
+/home/nvidia/Face-Recognition/build/face-recognition/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Face-Recognition/build/face-recognition/CMakeFiles/face-recognition.dir
+/home/nvidia/Face-Recognition/build/face-recognition/CMakeFiles/install/strip.dir
+/home/nvidia/Face-Recognition/build/face-recognition/CMakeFiles/install/local.dir
+/home/nvidia/Face-Recognition/build/face-recognition/CMakeFiles/edit_cache.dir
